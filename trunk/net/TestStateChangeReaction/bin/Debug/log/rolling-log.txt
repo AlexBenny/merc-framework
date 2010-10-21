@@ -1,0 +1,52 @@
+[Header]
+2009-11-20 18:43:21,751 [9] INFO  [(null)] - [Framework] Init
+2009-11-20 18:43:21,970 [9] INFO  [(null)] - [Framework] Load merc Test
+2009-11-20 18:43:22,017 [12] INFO  [(null)] - [Test] Hello!
+2009-11-20 18:43:22,017 [12] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-11-20 18:43:22,032 [12] ERROR [(null)] - [Test] Change to STATE_B is not allowed during change from DEFAULT
+2009-11-20 18:43:22,032 [12] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+[Header]
+2009-11-20 18:44:47,439 [11] INFO  [(null)] - [Framework] Init
+2009-11-20 18:44:47,564 [11] INFO  [(null)] - [Framework] Load merc Test
+2009-11-20 18:44:47,611 [14] INFO  [(null)] - [Test] Hello!
+2009-11-20 18:44:47,626 [14] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-11-20 18:44:47,626 [14] ERROR [(null)] - [Test] Change to STATE_B is not allowed during change from DEFAULT
+2009-11-20 18:44:47,626 [14] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+[Header]
+2009-11-20 18:45:33,470 [10] INFO  [(null)] - [Framework] Init
+2009-11-20 18:45:33,564 [10] INFO  [(null)] - [Framework] Load merc Test
+2009-11-20 18:45:33,611 [13] INFO  [(null)] - [Test] Hello!
+2009-11-20 18:45:33,611 [13] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-11-20 18:45:33,611 [13] ERROR [(null)] - [Test] Change to STATE_B is not allowed during change from DEFAULT
+2009-11-20 18:45:33,611 [13] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+[Header]
+2009-11-21 10:45:49,419 [11] INFO  [(null)] - [Framework] Init
+2009-11-21 10:45:49,779 [11] INFO  [(null)] - [Framework] Load merc Test
+[Header]
+2009-11-21 10:54:31,750 [10] INFO  [(null)] - [Framework] Init
+2009-11-21 10:54:31,891 [10] INFO  [(null)] - [Framework] Load merc Test
+2009-11-21 10:54:31,969 [13] INFO  [(null)] - [Test] Hello!
+2009-11-21 10:54:31,969 [13] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-11-21 10:54:31,969 [13] ERROR [(null)] - [Test] Change to STATE_B is not allowed during change from DEFAULT
+2009-11-21 10:54:31,969 [13] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+[Header]
+2009-11-26 18:36:03,189 [10] INFO  [(null)] - [Framework] Init
+2009-11-26 18:36:03,298 [10] INFO  [(null)] - [Framework] Load merc Test
+2009-11-26 18:36:03,329 [13] INFO  [(null)] - [Test] Hello!
+2009-11-26 18:36:03,345 [13] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-11-26 18:36:03,345 [13] ERROR [(null)] - [Test] Change to @STATE_B is not allowed during change from DEFAULT
+2009-11-26 18:36:03,345 [13] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+[Header]
+2009-12-11 17:59:41,296 [10] INFO  [(null)] - [Framework] Init
+2009-12-11 17:59:41,421 [10] INFO  [(null)] - [Framework] Load merc Test
+2009-12-11 17:59:41,452 [13] INFO  [(null)] - [Test] Hello!
+2009-12-11 17:59:41,467 [13] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-12-11 17:59:41,467 [13] ERROR [(null)] - [Test] Change to @STATE_B is not allowed during change from DEFAULT
+2009-12-11 17:59:41,467 [13] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+[Header]
+2009-12-11 18:17:54,759 [9] INFO  [(null)] - [Framework] Init
+2009-12-11 18:17:54,869 [9] INFO  [(null)] - [Framework] Load merc Test
+2009-12-11 18:17:54,916 [12] INFO  [(null)] - [Test] Hello!
+2009-12-11 18:17:54,916 [12] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-12-11 18:17:54,916 [12] ERROR [(null)] - [Test] Change to @STATE_B is not allowed during change from DEFAULT
+2009-12-11 18:17:54,916 [12] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A

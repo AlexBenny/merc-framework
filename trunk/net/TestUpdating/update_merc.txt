@@ -1,0 +1,2 @@
+it.mintlab.desktopnet.mercframework.test.multiplestatefilter.TestMerc http://192.168.2.6/~aggshow/TestMultipleStateFilter.dll 1.0.0.1
+it.mintlab.desktopnet.mercframework.test.statechangereaction.TestMerc http://192.168.2.6/~aggshow/TestStateChangeReaction.dll 1.0.0.0

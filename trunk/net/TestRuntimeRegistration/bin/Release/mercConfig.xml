@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <mercs>
+    <merc name="Registrant" class="it.mintlab.desktopnet.mercframework.test.runtimeregistration.RegistrantMerc, TestRuntimeRegistration" startmsg="init"/>
+  </mercs>
+</config>

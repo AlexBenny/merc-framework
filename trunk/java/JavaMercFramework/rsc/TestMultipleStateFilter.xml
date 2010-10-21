@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <mercs>
+    <merc name="Test" class="it.mintlab.desktopjava.mercframework.test.MultipleStateFilterMerc" startmsg="init"/>
+  </mercs>
+</config>

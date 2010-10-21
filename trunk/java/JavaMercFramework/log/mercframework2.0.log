@@ -1,0 +1,12 @@
+Jan 15, 2010 7:02:23 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Hello!
+Jan 15, 2010 7:02:23 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Process message <null,Sender,COMMAND,init>
+Jan 15, 2010 7:02:23 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Send message hello(howAreYou) [COMMAND] to Receiver
+Jan 15, 2010 7:02:23 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote sending of Message <Sender,Receiver,COMMAND,hello(howAreYou)>
+Jan 15, 2010 7:02:24 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Send message hello(boy) [COMMAND] to Receiver
+Jan 15, 2010 7:02:24 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote sending of Message <Sender,Receiver,COMMAND,hello(boy)>

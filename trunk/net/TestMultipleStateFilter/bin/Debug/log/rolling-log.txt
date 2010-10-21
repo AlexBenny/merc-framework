@@ -1,0 +1,52 @@
+[Header]
+2009-11-20 18:45:49,892 [10] INFO  [(null)] - [Framework] Init
+2009-11-20 18:45:49,986 [10] INFO  [(null)] - [Framework] Load merc Test
+2009-11-20 18:45:50,017 [13] INFO  [(null)] - [Test] Hello!
+2009-11-20 18:45:50,017 [13] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-11-20 18:45:50,032 [13] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2009-11-20 18:45:50,032 [13] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2009-11-20 18:45:50,095 [13] INFO  [(null)] - [Test] Process message <Test,,COMMAND,TestTupleWithUpperCase>
+2009-11-20 18:45:50,095 [13] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2009-11-20 18:45:50,095 [13] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2009-11-20 18:45:50,111 [13] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2009-11-20 18:45:50,111 [13] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2009-11-20 18:45:50,126 [13] INFO  [(null)] - [Test] Process message <Test,,COMMAND,testFilterSender>
+[Header]
+2009-11-21 11:32:18,260 [10] INFO  [(null)] - [Framework] Init
+2009-11-21 11:32:18,370 [10] INFO  [(null)] - [Framework] Load merc Test
+2009-11-21 11:32:18,417 [13] INFO  [(null)] - [Test] Hello!
+2009-11-21 11:32:18,417 [13] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-11-21 11:32:18,417 [13] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2009-11-21 11:32:18,417 [13] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2009-11-21 11:32:18,432 [13] INFO  [(null)] - [Test] Process message <Test,,COMMAND,TestTupleWithUpperCase>
+2009-11-21 11:32:18,432 [13] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2009-11-21 11:32:18,432 [13] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2009-11-21 11:32:18,432 [13] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2009-11-21 11:32:18,432 [13] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2009-11-21 11:32:18,448 [13] INFO  [(null)] - [Test] Process message <Test,,COMMAND,testFilterSender>
+[Header]
+2009-11-26 18:36:34,814 [10] INFO  [(null)] - [Framework] Init
+2009-11-26 18:36:34,923 [10] INFO  [(null)] - [Framework] Load merc Test
+2009-11-26 18:36:34,954 [13] INFO  [(null)] - [Test] Hello!
+2009-11-26 18:36:34,954 [13] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-11-26 18:36:34,970 [13] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2009-11-26 18:36:34,970 [13] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2009-11-26 18:36:34,970 [13] INFO  [(null)] - [Test] Process message <Test,,COMMAND,TestTupleWithUpperCase>
+2009-11-26 18:36:34,970 [13] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2009-11-26 18:36:34,970 [13] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2009-11-26 18:36:34,970 [13] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2009-11-26 18:36:34,970 [13] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2009-11-26 18:36:35,001 [13] INFO  [(null)] - [Test] Process message <Test,,COMMAND,testFilterSender>
+[Header]
+2009-12-11 17:59:21,359 [9] INFO  [(null)] - [Framework] Init
+2009-12-11 17:59:21,781 [9] INFO  [(null)] - [Framework] Load merc Test
+2009-12-11 17:59:21,937 [12] INFO  [(null)] - [Test] Hello!
+2009-12-11 17:59:21,937 [12] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2009-12-11 17:59:21,937 [12] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2009-12-11 17:59:21,937 [12] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2009-12-11 17:59:22,046 [12] INFO  [(null)] - [Test] Process message <Test,,COMMAND,TestTupleWithUpperCase>
+2009-12-11 17:59:22,046 [12] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2009-12-11 17:59:22,046 [12] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2009-12-11 17:59:22,046 [12] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2009-12-11 17:59:22,046 [12] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2009-12-11 17:59:22,062 [12] INFO  [(null)] - [Test] Process message <Test,,COMMAND,testFilterSender>

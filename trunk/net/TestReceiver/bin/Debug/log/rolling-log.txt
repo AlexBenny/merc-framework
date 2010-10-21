@@ -1,0 +1,822 @@
+[Header]
+2009-11-23 15:50:17,384 [1] INFO  [(null)] - [Framework] Init
+2009-11-23 15:50:18,369 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-11-23 15:50:18,400 [1] WARN  [(null)] - [Framework] Class not exists for merc Receiver
+2009-11-23 15:50:18,416 [1] WARN  [(null)] - [Framework] No Merc answers to Message <,Receiver,COMMAND,init>
+[Header]
+2009-11-23 15:52:13,769 [1] INFO  [(null)] - [Framework] Init
+2009-11-23 15:52:13,910 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-11-23 15:52:13,910 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-11-23 15:52:13,957 [6] INFO  [(null)] - [Receiver] Hello!
+2009-11-23 15:52:13,972 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-11-23 15:52:13,972 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2009-11-23 16:04:27,494 [1] INFO  [(null)] - [Framework] Init
+2009-11-23 16:04:27,619 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-11-23 16:04:27,619 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-11-23 16:04:27,666 [6] INFO  [(null)] - [Receiver] Hello!
+2009-11-23 16:04:27,666 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-11-23 16:04:27,666 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-11-23 16:06:52,852 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello('how are you?')>
+2009-11-23 16:06:52,868 [6] INFO  [(null)] - [Receiver] Hello from remote: 'how are you?'
+2009-11-23 16:06:52,868 [6] INFO  [(null)] - [Receiver] Send message response(fineAndYou) [COMMAND] to Sender
+2009-11-23 16:06:52,868 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response(fineAndYou)>
+2009-11-23 16:07:16,212 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response(notBad)>
+2009-11-23 16:07:16,212 [6] INFO  [(null)] - [Receiver] Response from remote: notBad
+2009-11-23 16:07:16,212 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2009-11-23 16:07:39,509 [1] INFO  [(null)] - [Framework] Init
+2009-11-23 16:07:39,634 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-11-23 16:07:39,634 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-11-23 16:07:39,681 [6] INFO  [(null)] - [Receiver] Hello!
+2009-11-23 16:07:39,681 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-11-23 16:07:39,681 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-11-23 16:07:44,165 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello('how are you?')>
+2009-11-23 16:07:44,165 [6] INFO  [(null)] - [Receiver] Hello from remote: 'how are you?'
+2009-11-23 16:07:44,165 [6] INFO  [(null)] - [Receiver] Send message response(fineAndYou) [COMMAND] to Sender
+2009-11-23 16:07:44,165 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response(fineAndYou)>
+2009-11-23 16:07:44,384 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response(notBad)>
+2009-11-23 16:07:44,384 [6] INFO  [(null)] - [Receiver] Response from remote: notBad
+2009-11-23 16:07:44,384 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2009-11-23 16:08:56,759 [1] INFO  [(null)] - [Framework] Init
+2009-11-23 16:08:56,884 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-11-23 16:08:56,884 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-11-23 16:08:56,915 [6] INFO  [(null)] - [Receiver] Hello!
+2009-11-23 16:08:56,931 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-11-23 16:08:56,931 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-11-23 16:09:01,852 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello('How are you?')>
+2009-11-23 16:09:01,852 [6] INFO  [(null)] - [Receiver] Hello from remote: 'How are you?'
+2009-11-23 16:09:01,852 [6] INFO  [(null)] - [Receiver] Send message response(fineAndYou) [COMMAND] to Sender
+2009-11-23 16:09:01,852 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response(fineAndYou)>
+2009-11-23 16:09:02,056 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-11-23 16:09:02,056 [6] INFO  [(null)] - [Receiver] Response from remote: 'Not bad..'
+2009-11-23 16:09:02,056 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2009-11-23 16:09:46,212 [1] INFO  [(null)] - [Framework] Init
+2009-11-23 16:09:46,306 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-11-23 16:09:46,321 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-11-23 16:09:46,352 [6] INFO  [(null)] - [Receiver] Hello!
+2009-11-23 16:09:46,352 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-11-23 16:09:46,352 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-11-23 16:09:50,743 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello('How are you?')>
+2009-11-23 16:09:50,743 [6] INFO  [(null)] - [Receiver] Hello from remote: 'How are you?'
+2009-11-23 16:09:50,743 [6] INFO  [(null)] - [Receiver] Send message response('Fine, and you?') [COMMAND] to Sender
+2009-11-23 16:09:50,743 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('Fine, and you?')>
+2009-11-23 16:09:50,946 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-11-23 16:09:50,946 [6] INFO  [(null)] - [Receiver] Response from remote: 'Not bad..'
+2009-11-23 16:09:50,946 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2009-12-14 10:40:57,689 [10] INFO  [(null)] - [Framework] Init
+2009-12-14 10:40:58,330 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 10:40:58,345 [10] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 10:40:58,377 [10] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 10:40:58,424 [13] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 10:40:58,424 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 10:40:58,424 [13] INFO  [(null)] - [Receiver] Process message <#LOCAL,Receiver,COMMAND,init>
+2009-12-14 10:40:58,424 [14] INFO  [(null)] - [ReceiverFriend] Process message <#LOCAL,ReceiverFriend,COMMAND,init>
+2009-12-14 10:40:58,424 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2009-12-14 10:43:40,275 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 10:43:40,416 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 10:43:40,431 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 10:43:40,462 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 10:43:40,478 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 10:43:40,478 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 10:43:40,478 [6] INFO  [(null)] - [Receiver] Process message <#LOCAL,Receiver,COMMAND,init>
+2009-12-14 10:43:40,478 [7] INFO  [(null)] - [ReceiverFriend] Process message <#LOCAL,ReceiverFriend,COMMAND,init>
+2009-12-14 10:43:40,478 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2009-12-14 10:46:15,689 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 10:46:15,798 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 10:46:15,798 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 10:46:15,830 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 10:46:15,830 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 10:46:15,845 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 10:46:15,845 [6] INFO  [(null)] - [Receiver] Process message <#LOCAL,Receiver,COMMAND,init>
+2009-12-14 10:46:15,845 [7] INFO  [(null)] - [ReceiverFriend] Process message <#LOCAL,ReceiverFriend,COMMAND,init>
+2009-12-14 10:46:15,845 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2009-12-14 10:46:30,720 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 10:46:30,829 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 10:46:30,829 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 10:46:30,860 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 10:46:30,876 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 10:46:30,891 [6] INFO  [(null)] - [Receiver] Process message <#LOCAL,Receiver,COMMAND,init>
+2009-12-14 10:46:30,891 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 10:46:30,891 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 10:46:30,891 [7] INFO  [(null)] - [ReceiverFriend] Process message <#LOCAL,ReceiverFriend,COMMAND,init>
+2009-12-14 10:47:41,982 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 10:47:41,982 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 10:47:41,982 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 10:49:08,181 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 10:49:22,508 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 10:49:22,539 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 10:49:22,539 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 10:49:22,539 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 10:49:22,664 [6] ERROR [(null)] - [Framework] Exception Error during parsing 'I don't throw by Receiver
+it.mintlab.desktopnet.tupleengine.ParsingException: Error during parsing 'I don't
+   in it.mintlab.desktopnet.tupleengine.Parser.parseAtom(IToken t, List`1 tokens) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\Parser.cs:riga 91
+   in it.mintlab.desktopnet.tupleengine.Parser.getTerms(List`1 tokens) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\Parser.cs:riga 21
+   in it.mintlab.desktopnet.tupleengine.Parser.parseAtom(IToken t, List`1 tokens) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\Parser.cs:riga 71
+   in it.mintlab.desktopnet.tupleengine.Parser.getTerms(List`1 tokens) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\Parser.cs:riga 21
+   in it.mintlab.desktopnet.tupleengine.TupleEngine.parse(String tuple) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\TupleEngine.cs:riga 11
+   in it.mintlab.desktopnet.mercframework.MessageContent..ctor(Category category, String tuple) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\MessageContent.cs:riga 20
+   in it.mintlab.desktopnet.mercframework.Dispatcher.deliverMessage(String recipient, String tuple) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Dispatcher.cs:riga 223
+   in it.mintlab.desktopnet.mercframework.test.remoting.ReceiverMerc.question(String msg) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\ReceiverMerc.cs:riga 30
+[Header]
+2009-12-14 10:50:45,847 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 10:50:45,957 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 10:50:45,957 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 10:50:45,988 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 10:50:46,004 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 10:50:46,004 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 10:50:46,004 [6] INFO  [(null)] - [Receiver] Process message <#LOCAL,Receiver,COMMAND,init>
+2009-12-14 10:50:46,004 [7] INFO  [(null)] - [ReceiverFriend] Process message <#LOCAL,ReceiverFriend,COMMAND,init>
+2009-12-14 10:50:46,019 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 10:50:55,206 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 10:50:55,206 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 10:50:55,206 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 10:50:55,441 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 10:50:55,441 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 10:50:55,441 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 10:50:55,503 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 10:50:55,503 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 10:50:55,503 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 10:50:55,503 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+[Header]
+2009-12-14 10:56:01,129 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 10:56:01,238 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 10:56:01,238 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 10:56:01,269 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 10:56:01,285 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 10:56:01,301 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 10:56:01,301 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 10:56:01,301 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 10:56:01,301 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 10:56:07,535 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 10:56:07,535 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 10:56:07,535 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 10:56:07,722 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 10:56:07,722 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 10:56:07,722 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 10:56:07,722 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 10:56:07,754 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 10:56:07,754 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 10:56:07,754 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+[Header]
+2009-12-14 11:02:24,925 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:02:25,034 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:02:25,034 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:02:25,065 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:02:25,065 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:02:25,065 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:02:25,081 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:02:25,081 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:02:25,081 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:02:31,209 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:02:31,209 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:02:31,209 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:02:31,396 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:02:31,396 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:02:31,396 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:02:31,396 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:02:31,428 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:02:31,428 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:02:31,428 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+[Header]
+2009-12-14 11:07:06,516 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:07:06,625 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:07:06,625 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:07:06,657 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:07:06,657 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:07:06,657 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:07:06,672 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:07:06,672 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:07:06,672 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:07:13,297 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:07:13,297 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:07:13,297 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:07:13,485 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:07:13,485 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:07:13,485 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:07:13,485 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:07:13,516 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:07:13,516 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:07:13,516 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:07:13,594 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:07:13,594 [6] INFO  [(null)] - [Receiver] Bye Bye!
+2009-12-14 11:07:13,625 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:07:13,625 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+[Header]
+2009-12-14 11:11:47,802 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:11:47,942 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:11:47,958 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:11:47,973 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:11:47,989 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:11:47,989 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:11:48,005 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:11:48,005 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:11:48,005 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:11:53,598 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:11:53,598 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:11:53,598 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:11:53,848 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:11:53,848 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:11:53,848 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:11:53,895 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:11:53,895 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:11:53,895 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:11:53,895 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:11:53,958 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:11:53,958 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2009-12-14 11:11:54,004 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:11:54,004 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2009-12-14 11:19:47,295 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:19:47,404 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:19:47,404 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:19:47,436 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:19:47,436 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:19:47,436 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:19:47,451 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:19:47,451 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:19:47,451 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:20:04,904 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:20:04,904 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:20:04,904 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:20:07,825 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:20:08,810 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:20:08,810 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:20:08,810 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:20:08,810 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:20:08,810 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:20:08,810 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:20:12,747 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:20:12,747 [6] INFO  [(null)] - [Receiver] Bye Bye!
+2009-12-14 11:20:12,778 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:20:12,778 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+[Header]
+2009-12-14 11:21:02,573 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:21:02,682 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:21:02,682 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:21:02,713 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:21:02,729 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:21:02,729 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:21:02,729 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:21:02,745 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:21:02,745 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:21:28,353 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:21:28,353 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:21:28,353 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:21:35,102 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:21:46,149 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:21:46,149 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:21:46,149 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:21:46,164 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:21:46,164 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:21:46,164 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:23:04,161 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:23:04,161 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:23:04,161 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2009-12-14 11:23:04,161 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2009-12-14 11:24:30,172 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:24:30,297 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:24:30,313 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:24:30,344 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:24:30,344 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:24:30,344 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:24:30,360 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:24:30,360 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:24:30,360 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:24:38,891 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:24:38,891 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:24:38,891 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:24:39,078 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:24:39,078 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:24:39,078 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:24:39,078 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:24:39,109 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:24:39,109 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:24:39,109 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:24:39,187 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:24:39,187 [6] INFO  [(null)] - [Receiver] Bye Bye!
+2009-12-14 11:24:39,219 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:24:39,219 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+[Header]
+2009-12-14 11:25:24,123 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:25:24,248 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:25:24,248 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:25:24,279 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:25:24,295 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:25:24,295 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:25:24,295 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:25:24,295 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:25:24,295 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:25:34,247 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:25:34,247 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:25:34,247 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:25:36,075 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:25:37,278 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:25:37,278 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:25:37,278 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:25:37,310 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:25:37,310 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:25:37,310 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:26:10,699 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:26:10,699 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2009-12-14 11:26:10,746 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:26:10,746 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2009-12-14 11:27:00,712 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:27:00,821 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:27:00,821 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:27:00,853 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:27:00,868 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:27:00,868 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:27:00,868 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:27:00,868 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:27:00,884 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:27:09,634 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:27:09,634 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:27:09,634 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:27:09,837 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:27:09,837 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:27:09,837 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:27:09,837 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:27:09,852 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:27:09,852 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:27:09,852 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:27:09,946 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:27:09,946 [6] INFO  [(null)] - [Receiver] Bye Bye!
+2009-12-14 11:27:09,962 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:27:09,962 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+[Header]
+2009-12-14 11:29:58,875 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:29:58,985 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:29:59,000 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:29:59,032 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:29:59,032 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:29:59,032 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:29:59,047 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:29:59,047 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:29:59,047 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:30:09,547 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:30:09,547 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:30:09,547 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:30:11,484 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:30:12,781 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:30:12,781 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:30:12,781 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:30:12,781 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:30:12,781 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:30:12,781 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:30:51,499 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:30:51,499 [6] INFO  [(null)] - [Receiver] Bye Bye!
+2009-12-14 11:30:51,546 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:30:51,546 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+[Header]
+2009-12-14 11:33:06,101 [1] INFO  [(null)] - [Framework] Init
+2009-12-14 11:33:06,242 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-14 11:33:06,242 [1] INFO  [(null)] - [Framework] Load merc Receiver
+2009-12-14 11:33:06,273 [1] INFO  [(null)] - [Framework] Load merc ReceiverFriend
+2009-12-14 11:33:06,289 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-14 11:33:06,289 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-14 11:33:06,305 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-14 11:33:06,305 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-14 11:33:06,305 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-14 11:33:15,726 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-14 11:33:15,726 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-14 11:33:15,726 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-14 11:33:15,929 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-14 11:33:15,929 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:33:15,929 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-14 11:33:15,929 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-14 11:33:15,929 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-14 11:33:15,929 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-14 11:33:15,929 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-14 11:33:16,038 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:33:16,038 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-14 11:33:16,038 [6] INFO  [(null)] - [Receiver] Bye Bye!
+2009-12-14 11:33:16,038 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+[Header]
+2009-12-15 18:19:32,863 [1] INFO  [(null)] - [Framework] Init
+2009-12-15 18:19:33,972 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2009-12-15 18:19:33,972 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2009-12-15 18:19:34,144 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2009-12-15 18:19:34,144 [1] INFO  [(null)] - [Framework] Load Remote Merc Sender
+2009-12-15 18:19:34,160 [6] INFO  [(null)] - [Receiver] Hello!
+2009-12-15 18:19:34,175 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2009-12-15 18:19:34,175 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2009-12-15 18:19:34,175 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2009-12-15 18:19:34,175 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2009-12-15 18:19:52,909 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2009-12-15 18:19:52,909 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2009-12-15 18:19:52,909 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2009-12-15 18:19:53,331 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-15 18:19:53,331 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2009-12-15 18:19:53,331 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2009-12-15 18:19:53,378 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2009-12-15 18:19:53,378 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2009-12-15 18:19:53,378 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2009-12-15 18:19:53,378 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2009-12-15 18:19:53,440 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-15 18:19:53,440 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2009-12-15 18:19:53,487 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2009-12-15 18:19:53,487 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2010-01-16 21:02:37,635 [1] INFO  [(null)] - [Framework] Init
+2010-01-16 21:02:38,041 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:02:38,041 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:02:38,182 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:02:38,182 [1] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:02:38,197 [6] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:02:38,197 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:02:38,213 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:02:38,213 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:02:38,213 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2010-01-16 21:06:43,935 [1] INFO  [(null)] - [Framework] Init
+2010-01-16 21:06:44,045 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:06:44,045 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:06:44,076 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:06:44,076 [1] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:06:44,092 [6] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:06:44,092 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:06:44,092 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:06:44,092 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:06:44,092 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 21:06:56,669 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 21:06:56,669 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 21:06:56,669 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2010-01-16 21:07:50,417 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2010-01-16 21:07:56,401 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 21:07:56,401 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2010-01-16 21:07:56,401 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2010-01-16 21:07:56,432 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 21:07:56,432 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2010-01-16 21:07:56,432 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2010-01-16 21:07:57,744 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 21:07:57,744 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2010-01-16 21:07:57,776 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 21:07:57,776 [6] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2010-01-16 21:09:39,724 [11] INFO  [(null)] - [Framework] Init
+2010-01-16 21:09:39,959 [11] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:09:39,959 [11] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:09:39,990 [11] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:09:39,990 [11] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:09:40,037 [14] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:09:40,052 [15] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:09:40,068 [14] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:09:40,068 [15] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:09:40,068 [14] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2010-01-16 21:11:32,502 [1] INFO  [(null)] - [Framework] Init
+2010-01-16 21:11:32,705 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:11:32,721 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:11:32,752 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:11:32,752 [1] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:11:32,752 [6] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:11:32,767 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:11:32,767 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:11:32,767 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:11:32,767 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2010-01-16 21:11:59,922 [10] INFO  [(null)] - [Framework] Init
+2010-01-16 21:12:00,016 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:12:00,016 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:12:00,063 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:12:00,063 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:12:00,063 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:12:00,079 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:12:00,079 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:12:00,079 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:12:00,079 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2010-01-16 21:12:18,390 [1] INFO  [(null)] - [Framework] Init
+2010-01-16 21:12:18,500 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:12:18,515 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:12:18,547 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:12:18,547 [1] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:12:18,562 [6] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:12:18,562 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:12:18,578 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:12:18,578 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:12:18,578 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 21:12:46,311 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 21:12:46,311 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 21:12:46,311 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2010-01-16 21:13:22,091 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2010-01-16 21:13:24,482 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 21:13:24,482 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 21:13:24,482 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2010-01-16 21:13:24,482 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2010-01-16 21:13:24,482 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2010-01-16 21:13:24,482 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2010-01-16 21:13:26,044 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 21:13:26,044 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 21:13:26,044 [6] INFO  [(null)] - [Receiver] Bye Bye!
+2010-01-16 21:13:26,044 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+[Header]
+2010-01-16 21:24:36,419 [1] INFO  [(null)] - [Framework] Init
+2010-01-16 21:24:36,528 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:24:36,528 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:24:36,559 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:24:36,559 [1] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:24:36,575 [6] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:24:36,575 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:24:36,575 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:24:36,590 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:24:36,590 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 21:24:50,496 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 21:24:50,496 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 21:24:50,496 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+[Header]
+2010-01-16 21:26:11,882 [1] INFO  [(null)] - [Framework] Init
+2010-01-16 21:26:11,992 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:26:11,992 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:26:12,023 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:26:12,023 [1] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:26:12,038 [6] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:26:12,038 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:26:12,054 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:26:12,054 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:26:12,054 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 21:26:21,866 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 21:26:21,866 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 21:26:21,882 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+[Header]
+2010-01-16 21:28:34,032 [1] INFO  [(null)] - [Framework] Init
+2010-01-16 21:28:34,141 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:28:34,141 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:28:34,173 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:28:34,173 [1] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:28:34,188 [6] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:28:34,188 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:28:34,188 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:28:34,188 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:28:34,204 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 21:28:43,422 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 21:28:43,422 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 21:28:43,422 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+[Header]
+2010-01-16 21:29:19,717 [10] INFO  [(null)] - [Framework] Init
+2010-01-16 21:29:19,827 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:29:19,827 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:29:19,858 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:29:19,858 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:29:19,874 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:29:19,874 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:29:19,889 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:29:19,889 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:29:19,889 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 21:30:31,746 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 21:30:31,746 [13] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 21:30:31,746 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+[Header]
+2010-01-16 21:31:03,072 [10] INFO  [(null)] - [Framework] Init
+2010-01-16 21:31:03,182 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:31:03,182 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:31:03,213 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:31:03,213 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:31:03,276 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:31:03,276 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:31:03,276 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:31:03,276 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 21:31:03,276 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:31:54,617 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 21:31:54,617 [13] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 21:31:54,617 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2010-01-16 21:32:20,912 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2010-01-16 21:32:21,866 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 21:32:21,866 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 21:32:21,866 [14] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2010-01-16 21:32:21,866 [13] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2010-01-16 21:32:21,866 [14] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2010-01-16 21:32:21,881 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2010-01-16 21:32:35,380 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 21:32:35,380 [14] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2010-01-16 21:32:35,380 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 21:32:35,396 [13] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2010-01-16 21:33:33,424 [10] INFO  [(null)] - [Framework] Init
+2010-01-16 21:33:33,518 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:33:33,518 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:33:33,549 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:33:33,549 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:33:33,565 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:33:33,565 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:33:33,581 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:33:33,581 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:33:33,581 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 21:33:48,064 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 21:33:48,064 [13] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 21:33:48,064 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2010-01-16 21:34:03,658 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2010-01-16 21:34:03,986 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 21:34:03,986 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 21:34:03,986 [14] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2010-01-16 21:34:03,986 [14] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2010-01-16 21:34:03,986 [13] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2010-01-16 21:34:03,986 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2010-01-16 21:34:06,314 [13] ERROR [(null)] - [Framework] Exception Impossibile scrivere dati sulla connessione di trasporto: Connessione in corso interrotta forzatamente dall'host remoto. throw by Receiver
+System.IO.IOException: Impossibile scrivere dati sulla connessione di trasporto: Connessione in corso interrotta forzatamente dall'host remoto. ---> System.Net.Sockets.SocketException: Connessione in corso interrotta forzatamente dall'host remoto
+   in System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fine dell'analisi dello stack dell'eccezione interna ---
+   in System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in System.Net.ConnectStream.InternalWrite(Boolean async, Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   in System.Net.ConnectStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   in it.mintlab.desktopnet.mercframework.NodeInterface.sendMessage(Message msg, Uri mercAddress) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\NodeInterface.cs:riga 119
+   in it.mintlab.desktopnet.mercframework.Framework.deliverMessage(Message msg) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Framework.cs:riga 219
+   in it.mintlab.desktopnet.mercframework.Dispatcher.deliverMessage(String recipient, String tuple) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Dispatcher.cs:riga 249
+   in it.mintlab.desktopnet.mercframework.test.remoting.ReceiverMerc.question(String msg) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\ReceiverMerc.cs:riga 30
+2010-01-16 21:34:06,329 [13] WARN  [(null)] - [Framework] No Merc answers to Message <Receiver,#LOCAL,ERROR,ex(ex_System.IO.IOException)>
+2010-01-16 21:34:06,392 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 21:34:06,392 [14] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2010-01-16 21:34:06,454 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 21:34:06,454 [13] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2010-01-16 21:59:58,288 [1] INFO  [(null)] - [Framework] Init
+2010-01-16 21:59:58,429 [1] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-16 21:59:58,445 [1] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-16 21:59:58,476 [1] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-16 21:59:58,476 [1] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-16 21:59:58,476 [6] INFO  [(null)] - [Receiver] Hello!
+2010-01-16 21:59:58,491 [7] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-16 21:59:58,507 [6] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-16 21:59:58,507 [7] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-16 21:59:58,507 [6] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-16 22:00:03,210 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-16 22:00:03,210 [6] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-16 22:00:03,210 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2010-01-16 22:00:03,866 [6] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2010-01-16 22:00:04,304 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 22:00:04,304 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-16 22:00:04,304 [6] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2010-01-16 22:00:04,304 [6] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2010-01-16 22:00:04,304 [7] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2010-01-16 22:00:04,304 [7] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2010-01-16 22:00:05,319 [6] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 22:00:05,319 [7] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-16 22:00:05,319 [6] INFO  [(null)] - [Receiver] Bye Bye!
+2010-01-16 22:00:05,319 [7] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+[Header]
+2010-01-26 16:36:01,439 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 16:36:01,705 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 16:36:01,721 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 16:36:01,783 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 16:36:01,799 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 16:36:01,846 [14] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 16:36:01,846 [15] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 16:36:01,861 [14] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 16:36:01,861 [15] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 16:36:01,861 [14] INFO  [(null)] - [Receiver] Waiting for friend..
+[Header]
+2010-01-26 16:37:35,968 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 16:37:36,389 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 16:37:36,389 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 16:37:36,483 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 16:37:36,483 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 16:37:36,530 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 16:37:36,546 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 16:37:36,561 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 16:37:36,561 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 16:37:36,561 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-26 16:37:51,748 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-26 16:37:51,748 [13] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-26 16:37:51,748 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2010-01-26 16:37:52,185 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-26 16:37:52,185 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2010-01-26 16:37:52,185 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-26 16:37:52,185 [14] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2010-01-26 16:37:52,185 [14] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2010-01-26 16:37:52,185 [13] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2010-01-26 16:37:52,201 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2010-01-26 16:37:52,404 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-26 16:37:52,404 [14] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2010-01-26 16:37:52,420 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-26 16:37:52,420 [13] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2010-01-26 16:38:44,588 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 16:38:44,745 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 16:38:44,745 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 16:38:44,792 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 16:38:44,792 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 16:38:44,823 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 16:38:44,823 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 16:38:44,838 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 16:38:44,838 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 16:38:44,838 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-26 16:39:00,713 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-26 16:39:00,713 [13] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-26 16:39:00,713 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+[Header]
+2010-01-26 17:08:14,285 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 17:08:14,488 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 17:08:14,488 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 17:08:14,535 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 17:08:14,535 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 17:08:14,582 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 17:08:14,582 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 17:08:14,597 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 17:08:14,597 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 17:08:14,613 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-26 17:09:44,327 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-26 17:09:44,327 [13] INFO  [(null)] - [Receiver] Send message question(How are you?) [COMMAND] to Sender
+2010-01-26 17:09:44,327 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question(How are you?)> to Sender
+[Header]
+2010-01-26 17:10:56,340 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 17:10:56,558 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 17:10:56,558 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 17:10:56,605 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 17:10:56,621 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 17:10:56,652 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 17:10:56,652 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 17:10:56,683 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 17:10:56,683 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 17:10:56,683 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-26 17:12:35,384 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-26 17:12:35,384 [13] INFO  [(null)] - [Receiver] Send message question(How are you?) [COMMAND] to Sender
+2010-01-26 17:12:35,384 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question(How are you?)> to Sender
+[Header]
+2010-01-26 17:23:27,219 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 17:23:27,407 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 17:23:27,407 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 17:23:27,469 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 17:23:27,469 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 17:23:27,532 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 17:23:27,532 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 17:23:27,547 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 17:23:27,547 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 17:23:27,547 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-26 17:23:47,047 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-26 17:25:51,779 [13] INFO  [(null)] - [Receiver] Send message question(How are you?) [COMMAND] to Sender
+2010-01-26 17:25:51,779 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question(How are you?)> to Sender
+[Header]
+2010-01-26 17:27:19,509 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 17:27:19,884 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 17:27:19,900 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 17:27:32,680 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 17:27:32,696 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 17:27:32,774 [14] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 17:27:32,789 [15] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 17:27:32,805 [14] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 17:27:32,805 [15] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 17:27:32,821 [14] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-26 17:29:10,486 [14] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-26 17:29:25,313 [14] INFO  [(null)] - [Receiver] Send message question(How are you?) [COMMAND] to Sender
+2010-01-26 17:29:25,313 [14] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question(How are you?)> to Sender
+[Header]
+2010-01-26 18:33:33,983 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 18:33:34,296 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 18:33:34,296 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 18:33:47,624 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 18:33:47,639 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 18:33:47,686 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 18:33:47,686 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 18:33:47,702 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 18:33:47,717 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 18:33:47,717 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-26 18:34:14,842 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-26 18:34:14,842 [13] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-26 18:34:14,857 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2010-01-26 18:34:20,122 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2010-01-26 18:34:20,122 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-26 18:34:20,122 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-26 18:34:20,122 [13] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2010-01-26 18:34:20,122 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2010-01-26 18:34:20,122 [14] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2010-01-26 18:34:20,122 [14] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2010-01-26 18:34:20,341 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-26 18:34:20,341 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-26 18:34:20,341 [14] INFO  [(null)] - [ReceiverFriend] Bye Bye!
+2010-01-26 18:34:20,341 [13] INFO  [(null)] - [Receiver] Bye Bye!
+[Header]
+2010-01-26 18:34:59,011 [10] INFO  [(null)] - [Framework] Init
+2010-01-26 18:34:59,229 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-01-26 18:34:59,245 [10] INFO  [(null)] - [Framework] Load Merc Receiver
+2010-01-26 18:34:59,307 [10] INFO  [(null)] - [Framework] Load Merc ReceiverFriend
+2010-01-26 18:34:59,323 [10] INFO  [(null)] - [Framework] Register Remote Merc Sender
+2010-01-26 18:34:59,370 [13] INFO  [(null)] - [Receiver] Hello!
+2010-01-26 18:34:59,370 [14] INFO  [(null)] - [ReceiverFriend] Hello!
+2010-01-26 18:34:59,386 [14] INFO  [(null)] - [ReceiverFriend] Process message <,ReceiverFriend,COMMAND,init>
+2010-01-26 18:34:59,386 [13] INFO  [(null)] - [Receiver] Process message <,Receiver,COMMAND,init>
+2010-01-26 18:34:59,401 [13] INFO  [(null)] - [Receiver] Waiting for friend..
+2010-01-26 18:35:58,914 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+2010-01-26 18:35:58,914 [13] INFO  [(null)] - [Receiver] Send message question('How are you?') [COMMAND] to Sender
+2010-01-26 18:35:58,914 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question('How are you?')> to Sender
+2010-01-26 18:36:15,851 [13] INFO  [(null)] - [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+2010-01-26 18:36:15,851 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-26 18:36:15,851 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+2010-01-26 18:36:15,851 [13] INFO  [(null)] - [Receiver] Send message response('I do not know') [COMMAND] to Sender
+2010-01-26 18:36:15,851 [13] INFO  [(null)] - [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+2010-01-26 18:36:15,851 [14] INFO  [(null)] - [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+2010-01-26 18:36:15,851 [14] INFO  [(null)] - [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+2010-01-26 18:36:15,961 [14] INFO  [(null)] - [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-26 18:36:15,961 [13] INFO  [(null)] - [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+2010-01-26 18:36:15,961 [13] INFO  [(null)] - [Receiver] Bye Bye!
+2010-01-26 18:36:15,961 [14] INFO  [(null)] - [ReceiverFriend] Bye Bye!
