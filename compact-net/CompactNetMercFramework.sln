@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompactNetMercFramework", "CompactNetMercFramework\CompactNetMercFramework.csproj", "{290B73F5-B14F-4DE8-9A55-4884781A8139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompactNetTupleEngine", "CompactNetTupleEngine\CompactNetTupleEngine.csproj", "{75E32070-C0B8-4969-B268-9B339D02502C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMultipleStateFilter", "TestMultipleStateFilter\TestMultipleStateFilter.csproj", "{ADA2EAD7-30D9-4C4A-894A-7C41985BA8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStateChangeReaction", "TestStateChangeReaction\TestStateChangeReaction.csproj", "{9BDB0732-3D43-4F9B-845A-0614B5ACDE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290B73F5-B14F-4DE8-9A55-4884781A8139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290B73F5-B14F-4DE8-9A55-4884781A8139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290B73F5-B14F-4DE8-9A55-4884781A8139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290B73F5-B14F-4DE8-9A55-4884781A8139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E32070-C0B8-4969-B268-9B339D02502C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E32070-C0B8-4969-B268-9B339D02502C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E32070-C0B8-4969-B268-9B339D02502C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E32070-C0B8-4969-B268-9B339D02502C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA2EAD7-30D9-4C4A-894A-7C41985BA8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA2EAD7-30D9-4C4A-894A-7C41985BA8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA2EAD7-30D9-4C4A-894A-7C41985BA8D7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADA2EAD7-30D9-4C4A-894A-7C41985BA8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA2EAD7-30D9-4C4A-894A-7C41985BA8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA2EAD7-30D9-4C4A-894A-7C41985BA8D7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9BDB0732-3D43-4F9B-845A-0614B5ACDE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDB0732-3D43-4F9B-845A-0614B5ACDE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDB0732-3D43-4F9B-845A-0614B5ACDE51}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9BDB0732-3D43-4F9B-845A-0614B5ACDE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDB0732-3D43-4F9B-845A-0614B5ACDE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDB0732-3D43-4F9B-845A-0614B5ACDE51}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

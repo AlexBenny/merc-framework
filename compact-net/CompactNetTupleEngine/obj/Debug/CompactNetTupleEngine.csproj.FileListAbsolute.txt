@@ -1,0 +1,5 @@
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetTupleEngine\bin\Debug\CompactNetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetTupleEngine\bin\Debug\CompactNetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetTupleEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetTupleEngine\obj\Debug\CompactNetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetTupleEngine\obj\Debug\CompactNetTupleEngine.pdb
