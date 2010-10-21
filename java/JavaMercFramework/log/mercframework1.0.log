@@ -1,0 +1,28 @@
+Jan 17, 2010 7:53:12 PM it.mintlab.desktopjava.mercframework.Framework registerMerc
+INFO: [Framework] Load Merc Sender
+Jan 17, 2010 7:53:12 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Hello!
+Jan 17, 2010 7:53:12 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Process message <null,Sender,COMMAND,init>
+Jan 17, 2010 7:53:12 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Send message hello [COMMAND] to Receiver
+Jan 17, 2010 7:53:12 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote sending of Message <Sender,Receiver,COMMAND,hello> to Receiver
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Process message <Receiver,Sender,COMMAND,question("How are you?")>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Send message response('Not bad..') [COMMAND] to Receiver
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote sending of Message <Sender,Receiver,COMMAND,response('Not bad..')> to Receiver
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Send message question('What are you doing, guys?') [COMMAND] to #REMOTE
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote broadcast sending of Message <Sender,#REMOTE,COMMAND,question('What are you doing, guys?')>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Process message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Send message bye [COMMAND] to #ALL
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote broadcast sending of Message <Sender,#ALL,COMMAND,bye>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Sender] Bye Bye!

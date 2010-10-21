@@ -1,0 +1,8 @@
+Nov 21, 2009 12:32:49 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Hello!
+Nov 21, 2009 12:32:49 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Process message <null,Test,COMMAND,init>
+Nov 21, 2009 12:32:49 PM it.mintlab.desktopjava.mercframework.Dispatcher logError
+SEVERE: [Test] Change to STATE_B is not allowed during change from $DEFAULT
+Nov 21, 2009 12:32:49 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] State change: $DEFAULT -> STATE_A

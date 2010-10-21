@@ -1,0 +1,15 @@
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\bin\Debug\TupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\bin\Debug\TupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\obj\Debug\TupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\obj\Debug\TupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\bin\Release\TupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\bin\Release\TupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\obj\Release\TupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\HgMercFramework\net\TupleEngine\obj\Release\TupleEngine.pdb
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\bin\Debug\TupleEngine.dll
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\bin\Debug\TupleEngine.pdb
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\obj\Debug\TupleEngine.dll
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\obj\Debug\TupleEngine.pdb

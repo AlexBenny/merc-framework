@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <framework-node port="6666"/>
+  <update-center>
+    <file-list uri="http://192.168.2.6/~aggshow/update_merc.txt" />
+  </update-center>
+  <mercs>
+    <merc name="Test2" class="it.mintlab.desktopnet.mercframework.test.statechangereaction.TestMerc, TestStateChangeReaction" startmsg="init" updatable="true"/>
+    <merc name="Test" class="it.mintlab.desktopnet.mercframework.test.multiplestatefilter.TestMerc, TestMultipleStateFilter" startmsg="init" updatable="true"/>
+  </mercs>
+</config>

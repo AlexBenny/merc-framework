@@ -1,0 +1,20 @@
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\bin\Debug\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\bin\Debug\NetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\obj\Debug\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Desktop\MF\net\TupleEngine\obj\Debug\NetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Desktop\MF\net\NetTupleEngine\bin\Debug\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Desktop\MF\net\NetTupleEngine\bin\Debug\NetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Desktop\MF\net\NetTupleEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Desktop\MF\net\NetTupleEngine\obj\Debug\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Desktop\MF\net\NetTupleEngine\obj\Debug\NetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\bin\Debug\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\bin\Debug\NetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\obj\Debug\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\obj\Debug\NetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\bin\Release\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\bin\Release\NetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\obj\Release\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetTupleEngine\obj\Release\NetTupleEngine.pdb

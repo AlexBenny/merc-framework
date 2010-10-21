@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JavaTupleEngine"/>
+	<classpathentry kind="lib" path="/Users/aggshow/Documents/Projects/Java/SE/JavaMercFramework/lib/json.jar"/>
+	<classpathentry kind="lib" path="/Users/aggshow/Documents/Projects/Java/SE/JavaMercFramework/lib/grizzly-http-webserver-2.0.0-M3.jar"/>
+	<classpathentry kind="lib" path="/Users/aggshow/Documents/Projects/Java/SE/JavaMercFramework/lib/httpclient-4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/aggshow/Documents/Projects/Java/SE/JavaMercFramework/lib/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/aggshow/Documents/Projects/Java/SE/JavaMercFramework/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/aggshow/Documents/Projects/Java/SE/JavaMercFramework/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/aggshow/Documents/Projects/Java/SE/JavaMercFramework/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

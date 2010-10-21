@@ -1,0 +1,145 @@
+[Header]
+2010-02-12 14:16:37,604 [10] INFO  [(null)] - [Framework] Init
+2010-02-12 14:16:37,713 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-02-12 14:16:37,901 [10] INFO  [(null)] - [Framework] Load Merc Test2
+2010-02-12 14:16:38,057 [10] ERROR [(null)] - Eccezione durante una richiesta WebClient.
+System.Net.WebException: Eccezione durante una richiesta WebClient. ---> System.IO.IOException: Il processo non può accedere al file 'C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestUpdating\bin\Debug\TestStateChangeReaction.dll' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   in System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   --- Fine dell'analisi dello stack dell'eccezione interna ---
+   in System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   in it.mintlab.desktopnet.mercframework.Updater.updateMerc(String mercClassName, Version version) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Updater.cs:riga 58
+   in it.mintlab.desktopnet.mercframework.Framework.init(String confPath) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Framework.cs:riga 114
+2010-02-12 14:16:38,088 [10] INFO  [(null)] - [Framework] Load Merc Test
+2010-02-12 14:16:38,166 [14] INFO  [(null)] - [Test2] Hello!
+2010-02-12 14:16:38,166 [15] INFO  [(null)] - [Test] Hello!
+2010-02-12 14:16:38,166 [15] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2010-02-12 14:16:38,166 [14] INFO  [(null)] - [Test2] Process message <,Test2,COMMAND,init>
+2010-02-12 14:16:38,182 [15] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2010-02-12 14:16:38,182 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:16:38,182 [14] ERROR [(null)] - [Test2] Change to @STATE_B is not allowed during change from DEFAULT
+2010-02-12 14:16:38,182 [14] INFO  [(null)] - [Test2] State change: DEFAULT -> @STATE_A
+2010-02-12 14:16:38,198 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,TestTupleWithUpperCase>
+2010-02-12 14:16:38,198 [15] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2010-02-12 14:16:38,198 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:16:38,198 [15] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2010-02-12 14:16:38,198 [15] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2010-02-12 14:16:38,213 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,testFilterSender>
+[Header]
+2010-02-12 14:18:04,975 [10] INFO  [(null)] - [Framework] Init
+2010-02-12 14:18:05,100 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-02-12 14:18:05,256 [10] INFO  [(null)] - [Framework] Load Merc Test2
+2010-02-12 14:18:05,412 [10] ERROR [(null)] - Eccezione durante una richiesta WebClient.
+System.Net.WebException: Eccezione durante una richiesta WebClient. ---> System.IO.IOException: Il processo non può accedere al file 'C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestUpdating\bin\Debug\TestStateChangeReaction.dll' perché è in uso da un altro processo.
+   in System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   in System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   in System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   in System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   --- Fine dell'analisi dello stack dell'eccezione interna ---
+   in System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   in it.mintlab.desktopnet.mercframework.Updater.updateMerc(String mercClassName, Version version) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Updater.cs:riga 58
+   in it.mintlab.desktopnet.mercframework.Framework.init(String confPath) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Framework.cs:riga 114
+2010-02-12 14:18:05,444 [10] INFO  [(null)] - [Framework] Load Merc Test
+2010-02-12 14:18:05,459 [14] INFO  [(null)] - [Test2] Hello!
+2010-02-12 14:18:05,459 [15] INFO  [(null)] - [Test] Hello!
+2010-02-12 14:18:05,475 [15] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2010-02-12 14:18:05,475 [14] INFO  [(null)] - [Test2] Process message <,Test2,COMMAND,init>
+2010-02-12 14:18:05,475 [15] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2010-02-12 14:18:05,475 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:18:05,475 [14] ERROR [(null)] - [Test2] Change to @STATE_B is not allowed during change from DEFAULT
+2010-02-12 14:18:05,475 [14] INFO  [(null)] - [Test2] State change: DEFAULT -> @STATE_A
+2010-02-12 14:18:05,491 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,TestTupleWithUpperCase>
+2010-02-12 14:18:05,491 [15] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2010-02-12 14:18:05,491 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:18:05,491 [15] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2010-02-12 14:18:05,491 [15] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2010-02-12 14:18:05,506 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,testFilterSender>
+[Header]
+2010-02-12 14:18:42,145 [10] INFO  [(null)] - [Framework] Init
+2010-02-12 14:18:42,239 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-02-12 14:18:42,426 [10] INFO  [(null)] - [Framework] Load Merc Test2
+2010-02-12 14:18:42,926 [10] ERROR [(null)] - Errore del server remoto: (403) Non consentito.
+System.Net.WebException: Errore del server remoto: (403) Non consentito.
+   in System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   in it.mintlab.desktopnet.mercframework.Updater.updateMerc(String mercClassName, Version version) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Updater.cs:riga 58
+   in it.mintlab.desktopnet.mercframework.Framework.init(String confPath) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Framework.cs:riga 114
+2010-02-12 14:18:43,051 [10] WARN  [(null)] - [Framework] Class not exists for merc Test
+2010-02-12 14:18:43,083 [14] INFO  [(null)] - [Test2] Hello!
+2010-02-12 14:18:43,083 [14] INFO  [(null)] - [Test2] Process message <,Test2,COMMAND,init>
+2010-02-12 14:18:43,083 [14] ERROR [(null)] - [Test2] Change to @STATE_B is not allowed during change from DEFAULT
+2010-02-12 14:18:43,098 [14] INFO  [(null)] - [Test2] State change: DEFAULT -> @STATE_A
+[Header]
+2010-02-12 14:19:06,597 [10] INFO  [(null)] - [Framework] Init
+2010-02-12 14:19:06,707 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-02-12 14:19:06,847 [10] INFO  [(null)] - [Framework] Load Merc Test2
+2010-02-12 14:19:49,939 [10] ERROR [(null)] - Errore del server remoto: (403) Non consentito.
+System.Net.WebException: Errore del server remoto: (403) Non consentito.
+   in System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   in it.mintlab.desktopnet.mercframework.Updater.updateMerc(String mercClassName, Version version) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Updater.cs:riga 58
+   in it.mintlab.desktopnet.mercframework.Framework.init(String confPath) in C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\NetMercFramework\Framework.cs:riga 114
+2010-02-12 14:19:49,986 [10] WARN  [(null)] - [Framework] Class not exists for merc Test
+2010-02-12 14:19:49,986 [14] INFO  [(null)] - [Test2] Hello!
+2010-02-12 14:19:50,002 [14] INFO  [(null)] - [Test2] Process message <,Test2,COMMAND,init>
+2010-02-12 14:19:50,002 [14] ERROR [(null)] - [Test2] Change to @STATE_B is not allowed during change from DEFAULT
+2010-02-12 14:19:50,002 [14] INFO  [(null)] - [Test2] State change: DEFAULT -> @STATE_A
+[Header]
+2010-02-12 14:21:03,045 [10] INFO  [(null)] - [Framework] Init
+2010-02-12 14:21:03,155 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-02-12 14:21:03,311 [10] INFO  [(null)] - [Framework] Load Merc Test2
+2010-02-12 14:21:05,264 [10] INFO  [(null)] - [Framework] Merc Test updated
+2010-02-12 14:21:05,295 [10] INFO  [(null)] - [Framework] Load Merc Test
+2010-02-12 14:21:05,342 [14] INFO  [(null)] - [Test2] Hello!
+2010-02-12 14:21:05,342 [15] INFO  [(null)] - [Test] Hello!
+2010-02-12 14:21:05,342 [15] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2010-02-12 14:21:05,342 [14] INFO  [(null)] - [Test2] Process message <,Test2,COMMAND,init>
+2010-02-12 14:21:05,342 [15] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2010-02-12 14:21:05,342 [14] ERROR [(null)] - [Test2] Change to @STATE_B is not allowed during change from DEFAULT
+2010-02-12 14:21:05,342 [14] INFO  [(null)] - [Test2] State change: DEFAULT -> @STATE_A
+2010-02-12 14:21:05,342 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:21:05,358 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,TestTupleWithUpperCase>
+2010-02-12 14:21:05,358 [15] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2010-02-12 14:21:05,358 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:21:05,358 [15] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2010-02-12 14:21:05,358 [15] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2010-02-12 14:21:05,373 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,testFilterSender>
+[Header]
+2010-02-12 14:21:54,262 [10] INFO  [(null)] - [Framework] Init
+2010-02-12 14:21:54,465 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-02-12 14:21:54,637 [10] INFO  [(null)] - [Framework] Load Merc Test2
+2010-02-12 14:21:58,637 [10] INFO  [(null)] - [Framework] Updated Merc Test
+2010-02-12 14:21:58,699 [10] INFO  [(null)] - [Framework] Load Merc Test
+2010-02-12 14:21:58,715 [15] INFO  [(null)] - [Test] Hello!
+2010-02-12 14:21:58,715 [14] INFO  [(null)] - [Test2] Hello!
+2010-02-12 14:21:58,715 [15] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2010-02-12 14:21:58,715 [14] INFO  [(null)] - [Test2] Process message <,Test2,COMMAND,init>
+2010-02-12 14:21:58,715 [15] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2010-02-12 14:21:58,715 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:21:58,715 [14] ERROR [(null)] - [Test2] Change to @STATE_B is not allowed during change from DEFAULT
+2010-02-12 14:21:58,715 [14] INFO  [(null)] - [Test2] State change: DEFAULT -> @STATE_A
+2010-02-12 14:21:58,730 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,TestTupleWithUpperCase>
+2010-02-12 14:21:58,730 [15] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2010-02-12 14:21:58,730 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:21:58,730 [15] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2010-02-12 14:21:58,730 [15] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2010-02-12 14:21:58,746 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,testFilterSender>
+[Header]
+2010-02-12 14:22:22,370 [10] INFO  [(null)] - [Framework] Init
+2010-02-12 14:22:22,464 [10] INFO  [(null)] - [Framework] Started framework distribuited node on port: 6666
+2010-02-12 14:22:22,573 [10] INFO  [(null)] - [Framework] Load Merc Test2
+2010-02-12 14:22:22,636 [10] INFO  [(null)] - [Framework] Load Merc Test
+2010-02-12 14:22:22,651 [14] INFO  [(null)] - [Test2] Hello!
+2010-02-12 14:22:22,667 [15] INFO  [(null)] - [Test] Hello!
+2010-02-12 14:22:22,667 [14] INFO  [(null)] - [Test2] Process message <,Test2,COMMAND,init>
+2010-02-12 14:22:22,667 [15] INFO  [(null)] - [Test] Process message <,Test,COMMAND,init>
+2010-02-12 14:22:22,667 [15] INFO  [(null)] - [Test] State change: DEFAULT -> @STATE_A
+2010-02-12 14:22:22,667 [14] ERROR [(null)] - [Test2] Change to @STATE_B is not allowed during change from DEFAULT
+2010-02-12 14:22:22,667 [14] INFO  [(null)] - [Test2] State change: DEFAULT -> @STATE_A
+2010-02-12 14:22:22,667 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:22:22,683 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,TestTupleWithUpperCase>
+2010-02-12 14:22:22,683 [15] INFO  [(null)] - [Test] State change: @STATE_A -> @STATE_B
+2010-02-12 14:22:22,683 [15] INFO  [(null)] - [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+2010-02-12 14:22:22,683 [15] INFO  [(null)] - [Test] State change: @STATE_B -> @STATE_C
+2010-02-12 14:22:22,683 [15] INFO  [(null)] - [Test] Send broadcast message testFilterSender [COMMAND]
+2010-02-12 14:22:22,698 [15] INFO  [(null)] - [Test] Process message <Test,#LOCAL,COMMAND,testFilterSender>

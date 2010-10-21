@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <framework-node port="6667"/>
+  <mercs>
+    <merc name="Sender" class="it.mintlab.desktopnet.mercframework.test.remotesender.SenderMerc, TestRemoteSender" startmsg="init"/>
+    <remote-merc name="Receiver" uri="http://192.168.1.38:6666/"></remote-merc>
+  </mercs>
+</config>

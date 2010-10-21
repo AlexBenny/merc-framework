@@ -1,0 +1,42 @@
+Jan 17, 2010 7:53:07 PM it.mintlab.desktopjava.mercframework.Framework registerMerc
+INFO: [Framework] Load Merc ReceiverFriend
+Jan 17, 2010 7:53:07 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [ReceiverFriend] Hello!
+Jan 17, 2010 7:53:07 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [ReceiverFriend] Process message <null,ReceiverFriend,COMMAND,init>
+Jan 17, 2010 7:53:07 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [ReceiverFriend] Waiting for friend..
+Jan 17, 2010 7:53:07 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Hello!
+Jan 17, 2010 7:53:07 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Process message <null,Receiver,COMMAND,init>
+Jan 17, 2010 7:53:07 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Waiting for friend..
+Jan 17, 2010 7:53:13 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Process message <Sender,Receiver,COMMAND,hello>
+Jan 17, 2010 7:53:13 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Send message question("How are you?") [COMMAND] to Sender
+Jan 17, 2010 7:53:13 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote sending of Message <Receiver,Sender,COMMAND,question("How are you?")> to Sender
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [ReceiverFriend] Send message response('Looking for a present!') [COMMAND] to Sender
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote sending of Message <ReceiverFriend,Sender,COMMAND,response('Looking for a present!')> to Sender
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Process message <Sender,Receiver,COMMAND,response('Not bad..')>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Process message <Sender,#LOCAL,COMMAND,question('What are you doing, guys?')>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Send message response('I do not know') [COMMAND] to Sender
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Framework deliverMessage
+INFO: [Framework] Remote sending of Message <Receiver,Sender,COMMAND,response('I do not know')> to Sender
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [ReceiverFriend] Process message <Sender,#LOCAL,COMMAND,bye>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [ReceiverFriend] Bye Bye!
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Process message <Sender,#LOCAL,COMMAND,bye>
+Jan 17, 2010 7:53:14 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Receiver] Bye Bye!

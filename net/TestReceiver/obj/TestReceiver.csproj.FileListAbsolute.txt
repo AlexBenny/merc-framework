@@ -1,0 +1,14 @@
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\mercConfig.xml
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\log.config
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\TestReceiver.exe
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\TestReceiver.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\NetMercFramework.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\NetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\log4net.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\NetMercFramework.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\log4net.xml
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\obj\Debug\TestReceiver.exe
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\obj\Debug\TestReceiver.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\net\TestReceiver\bin\Debug\NetTupleEngine.pdb

@@ -1,0 +1,20 @@
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Hello!
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Process message <null,Test,COMMAND,init>
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] State change: $DEFAULT -> STATE_A
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Process message <Test,null,COMMAND,TestTupleWithUpperCase>
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] State change: STATE_A -> STATE_B
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Send broadcast message TestTupleWithUpperCase [COMMAND]
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] State change: STATE_B -> STATE_C
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Send broadcast message testFilterSender [COMMAND]
+Nov 21, 2009 12:32:38 PM it.mintlab.desktopjava.mercframework.Dispatcher logInfo
+INFO: [Test] Process message <Test,null,COMMAND,testFilterSender>
