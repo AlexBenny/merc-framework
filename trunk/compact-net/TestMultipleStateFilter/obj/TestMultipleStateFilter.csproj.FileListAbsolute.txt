@@ -1,0 +1,13 @@
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\mercConfig.xml
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\log.config
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\TestMultipleStateFilter.exe
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\TestMultipleStateFilter.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\CompactNetMercFramework.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\CompactNetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\log4net.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\log4net.xml
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\CompactNetMercFramework.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\bin\Debug\CompactNetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\obj\Debug\TestMultipleStateFilter.exe
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestMultipleStateFilter\obj\Debug\TestMultipleStateFilter.pdb

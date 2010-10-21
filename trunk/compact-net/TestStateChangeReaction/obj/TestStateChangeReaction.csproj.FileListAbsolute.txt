@@ -1,0 +1,13 @@
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\mercConfig.xml
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\log.config
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\TestStateChangeReaction.exe
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\TestStateChangeReaction.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\CompactNetMercFramework.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\CompactNetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\log4net.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\log4net.xml
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\CompactNetMercFramework.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\bin\Debug\CompactNetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\obj\Debug\TestStateChangeReaction.exe
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2005\Projects\MercFramework\compact-net\TestStateChangeReaction\obj\Debug\TestStateChangeReaction.pdb

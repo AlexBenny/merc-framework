@@ -1,0 +1,12 @@
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\bin\Release\CompactNetMercFramework.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\bin\Release\CompactNetMercFramework.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\bin\Release\CompactNetTupleEngine.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\bin\Release\log4net.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\bin\Release\Newtonsoft.Json.Compact.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\bin\Release\log4net.xml
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\bin\Release\CompactNetTupleEngine.pdb
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\obj\Release\it.mintlab.mobilenet.mercframework.FormMerc.resources
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\obj\Release\CompactNetMercFramework.csproj.GenerateResource.Cache
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\obj\Release\CompactNetMercFramework.dll
+C:\Documents and Settings\aggshow\Documenti\Visual Studio 2008\Projects\MercFramework\compact-net\CompactNetMercFramework\obj\Release\CompactNetMercFramework.pdb
