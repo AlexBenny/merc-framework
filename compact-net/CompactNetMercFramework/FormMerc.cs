@@ -127,6 +127,7 @@ namespace it.mintlab.mobilenet.mercframework
                 {
                     this.tmNextMsg.Enabled = true;
                    // AppDomain.CurrentDomain.UnhandledException += new UnhandledExceptionEventHandler(OnUnhandledException);
+                    
                     this.ShowDialog();
 
                     return;
